@@ -1,5 +1,5 @@
 # Nasdaq Stock Market Case Study 2023
-> ![rewrite](rewrite.png)
+> ![Rewrite](Rewrite.png)
 
 ## The Evolution of Nasdaq as a Fintech Company from the 1971 to 2023
 ### *Regulation Technology (Regtech)*
@@ -7,7 +7,7 @@
 ## Genesis and Growth
 ```python
 ```
-> ![Nasdaqtower](Nasdaqtower.png)
+> ![NasdaqTower](NasdaqTower.png)
 
 Nasdaq ("The Company") is one of the largest stock exchanges in the world headquartered in New York.  
 Nasdaq stands for  National Association of Securities Dealers Automated Quotations and it was founded in 1971. 
