@@ -1,1 +1,1 @@
-# Nasdaq-Stock-Market-2023
+# Nasdaq Stock Market Case Study 2023
